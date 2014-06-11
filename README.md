@@ -1,7 +1,7 @@
 press-kit
 =========
 
-This is the <a href="http://itwapp.io">interviewapp<a/> Press Kit. If you have any questions you want answered, feel free to email support@itwapp.io!
+This is the <a href="http://itwapp.io">interviewapp<a/> press kit. If you have any questions you want answered, feel free to email support@itwapp.io!
 
 <h3>One-liner</h3>
 
